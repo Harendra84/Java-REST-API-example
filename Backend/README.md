@@ -5,6 +5,10 @@
 Implementd an application in java which provides a REST API with endpoints for searching,
 creating and deleting “server” objects:
 
+### Project Structure
+
+![Screenshot_20221123_170354](https://user-images.githubusercontent.com/82948471/203539943-bb863d32-7de1-4643-9203-d2f409a3f6ea.png)
+
 ##### ● GET servers. Should return all the servers if no parameters are passed. When server id
 is passed as a parameter - return a single server or 404 if there’s no such a server.
 
